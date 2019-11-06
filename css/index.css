@@ -359,7 +359,6 @@ width: 35%;
         display: flex;
         flex-direction: column;
         align-items: center;
-        width: 100;
         text-align: center;
         text-decoration-line: none;
     }
@@ -398,6 +397,10 @@ width: 35%;
         padding: 0% 4%;
     }
 
+    .main-content .middle-img {
+        margin: 2% auto;
+        width: 90%;
+    }
 
     .middle-content {
     display: flex;
@@ -406,13 +409,12 @@ width: 35%;
     margin: 4% 4%;
 }
 
-
 .text {
     width: 95%;
-}
+  }
 
 hr {
     visibility: hidden;
-}
+  }
 
 }
